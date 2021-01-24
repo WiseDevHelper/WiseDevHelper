@@ -6,7 +6,7 @@
 
 ## I'm an aspiring developer, learning many things.
 
-- 😎 I'm the developer of [WiseBot](https://wisebot.tk), an amazing Discord bot!
+- 😎 I'm the developer of [WiseBot](https://wisebot.tk), an amazing verified Discord bot!
 - 🔎 I’m exploring new things!
 - 👀 Fun fact: I love to help people!
 
