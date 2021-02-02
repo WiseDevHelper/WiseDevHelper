@@ -1,7 +1,7 @@
 ### Hey there, I'm Wise
 
 [![Twitter Follow](https://img.shields.io/twitter/follow/oisci0762?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Wise2006&screen_name=oisci0762)
-
+<br>
 ---
 
 ## I'm an aspiring developer, learning many things.
@@ -18,3 +18,5 @@
   <img align="left" alt="Wise's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Wise2006&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
+
+![Profile View](https://komarev.com/ghpvc/?username=wise2006&label=Profile%20views&color=1DA1F2&style=for-the-badge)
