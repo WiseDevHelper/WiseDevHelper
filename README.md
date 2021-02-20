@@ -15,7 +15,7 @@
 <details>
   <summary>🔷 GitHub Stats</summary>
 
-  <img align="left" alt="Wise's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=Wise2006&show_icons=true&hide_border=true&theme=tokyonight" />
+  <img align="left" alt="Wise's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=WiseDevHelper&show_icons=true&hide_border=true&theme=tokyonight" />
 
 </details>
 
