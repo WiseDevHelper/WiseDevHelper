@@ -1,6 +1,6 @@
 ### Hey there, I'm Wise
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/oisci0762?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/Wise2006&screen_name=oisci0762)
+[![Twitter Follow](https://img.shields.io/twitter/follow/WiseDevHelper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/WiseDevHelper&screen_name=WiseDevHelper)
 <br>
 ---
 
