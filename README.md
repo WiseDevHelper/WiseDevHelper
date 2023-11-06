@@ -1,14 +1,14 @@
-### Hey there, I'm Wise
+### 👋🏻 Hey there, I'm Wise
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/WiseDevHelper?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/intent/follow?original_referer=https://github.com/WiseDevHelper&screen_name=WiseDevHelper)
-<br>
 ---
 
-## I'm an aspiring developer, learning many things.
+## ✨ Always learning new things!
 
-- 😎 I'm the developer of [WiseBot](https://wisebot.tk), an amazing verified Discord bot!
-- 🔎 I’m exploring new things!
-- 👀 Fun fact: I love to help people!
+- 😅 Unfortunately, not as active as I'd like to be anymore...
+- 💻 I was the developer of [WiseBot](https://wisebot.tk), a formerly amazing verified Discord bot!
+- 🔎 I’m still exploring new things!
+- 🍏 I'm now delving deeper into all the natural sciences.
+- 👀 I'm busy but I'd still love to give you a hand if you need me!
 
 ---
 
